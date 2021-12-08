@@ -11,7 +11,7 @@
 
 Tourism Management  Home Page ->
 
-![q1](https://user-images.githubusercontent.com/62274837/145198341-bad6a152-72b1-4923-9ca0-bacbc79a4800.png)
+![q1](https://user-images.githubusercontent.com/62274837/145202023-cb20c370-f93d-4230-a7dd-2311d09ea9b0.png)
 
 
 Tourism Management Admin Panel ->
